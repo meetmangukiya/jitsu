@@ -1,0 +1,10 @@
+jitsu:
+  template: haiku.j2
+  generates: txt
+
+title: Life?
+author: Meet Mangukiya
+content: |
+  Life
+  is
+  Mystery

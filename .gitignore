@@ -1,0 +1,4 @@
+**/__pycache__/
+jitsu.egg-info/
+.coverage
+.pytest_cache/
